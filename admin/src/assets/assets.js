@@ -11,7 +11,8 @@ export const assets ={
     order_icon,
     profile_image,
     upload_area,
-    parcel_icon
+    parcel_icon,
+    header_img
 }
 
 export const url = 'https://food-del-app-backend-e9d2.onrender.com';

@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('https://food-del-app-backend-e9d2.onrender.com') no-repeat;
+    background: url('header_img.png') no-repeat;
     background-size: contain;
     position: relative;
 }
